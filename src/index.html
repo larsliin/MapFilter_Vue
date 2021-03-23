@@ -2,73 +2,27 @@
 <html class="no-js" lang="">
 
 <head>
-  <meta charset="utf-8">
-  <title></title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="dist/css/main.css">
+    <link rel="stylesheet" href="dist/css/main.css">
 </head>
 
 <body>
 
-  <div class="container-fluid no-gutter">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="pull-left">
-        <h1>Boligfilter</h1>
-      </div>
-      <div class="pull-right">
-        <div class="btn-group" role="group" aria-label="Basic example">
-          <button type="button" class="btn btn-secondary button__data" data-url="data/data1.json">JSON 1</button>
-          <button type="button" class="btn btn-secondary button__data" data-url="data/data2.json">JSON 2</button>
-          <button type="button" class="btn btn-secondary button__data" data-url="data/data3.json">JSON 3</button>
+    <div class="container-fluid no-gutter">
+        
+        <div class="row">
+            <div class="col-3 ph-16 pv-16">
+                
+            </div>
+            <div class="col-9">
+                <div class="map" id="map"></div>
+            </div>
         </div>
-      </div>
-    </nav>
-    <div class="row">
-      <div class="col-3 ph-16 pv-16">
-        <div class="form-group">
-          <label for="search">Søg adresse</label>
-          <input type="text" class="form-control frm__inp" id="filter_address" aria-describedby="Search" placeholder="Tast for at søge">
-        </div>
-        <div class="form-group">
-          <label for="dropdown1">Filtrér type</label>
-          <select class="form-control frm__inp" id="filter_type">
-          </select>
-        </div>
-        <div class="form-group">
-          <label for="dropdown2">Filtrér antal værelser</label>
-          <select class="form-control frm__inp" id="filter_roomstotal">
-          </select>
-        </div>
-        <div class="form-group">
-          <label for="dropdown3">Filtrér mægler</label>
-          <select class="form-control frm__inp" id="filter_broker">
-          </select>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input frm__inp" type="checkbox" value="1" id="filter_price1">
-          <label class="form-check-label" for="filter_price1">
-            &lt;4.000.000
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input frm__inp" type="checkbox" value="2" id="filter_price2">
-          <label class="form-check-label" for="filter_price2">
-            4.000.000&gt;
-          </label>
-        </div>
-      </div>
-      <div class="col-9">
-        <div class="map" id="map"></div>
-      </div>
     </div>
-  </div>
-
-  <script src="dist/js/all.min.js"></script>
-  <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyACvyEFmGKeUcmVaqdYLb8lvHGVdHkM92E&callback=initMap"></script>
 </body>
-
 </html>
