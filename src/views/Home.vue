@@ -1,25 +1,19 @@
 <template>
-  <div class="home inner">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="">
+    <map-filter msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+import MapFilter from '@/components/MapFilter.vue';
 
 export default {
-  name: 'Home',
-  components: {
-    HelloWorld,
-  },
+    name: 'Home',
+    components: {
+        MapFilter,
+    },
 };
 </script>
 <style lang="scss" scoped>
-  .home{
-    &.inner{
-      background-color: blue;
-    }
-  }
 </style>
