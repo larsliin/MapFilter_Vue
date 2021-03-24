@@ -1,15 +1,13 @@
 <template>
-  <div class="hello">
-    FILTER
-  </div>
+  <div class="hello">Filter</div>
 </template>
 
 <script>
 export default {
-  name: 'MapFilter',
-  props: {
-    msg: String,
-  },
+    name: 'MapFilter',
+    props: {
+        msg: String,
+    },
 };
 </script>
 

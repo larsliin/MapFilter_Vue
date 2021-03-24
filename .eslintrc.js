@@ -8,22 +8,17 @@ module.exports = {
         '@vue/airbnb',
     ],
     rules: {
-        'indent': ['error', 2],
-        
-        'no-param-reassign': [2, {
-            props: false
-        }],
+        'indent': ['error', 4],
+        'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',
+        'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
+        'no-param-reassign': [2, { props: false }],
         'linebreak-style': 0,
         'no-nested-ternary': 'off',
         'import/no-cycle': 'off',
-        'max-len': ['error', {
-            code: 160,
-            tabWidth: 2
-        }],
-        'no-plusplus': [2, {
-            allowForLoopAfterthoughts: true
-        }],
-        'operator-linebreak': ["error", "before"]
+        'max-len': ['error', { code: 160, tabWidth: 4 }],
+        'no-plusplus': [2, { allowForLoopAfterthoughts: true }],
+        'operator-linebreak': ["error", "before"],
+        "vue/no-multiple-template-root": "off"
     },
     parserOptions: {
         parser: 'babel-eslint',

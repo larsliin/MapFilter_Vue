@@ -1,7 +1,7 @@
 <template>
-  <div class="">
-    <map-filter msg="Welcome to Your Vue.js App"/>
-  </div>
+    <div class>
+        <map-filter />
+    </div>
 </template>
 
 <script>
