@@ -1,17 +1,26 @@
 <template>
-    <div class>
-        <map-filter />
+    <div class="container">
+        <div class="row">
+            <div class="col-4">
+                <app-map-filter />
+            </div>
+            <div class="col-8">
+                <app-map />
+            </div>
+        </div>
     </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import MapFilter from '@/components/MapFilter.vue';
+import AppMapFilter from '@/components/AppMapFilter.vue';
+import AppMap from '@/components/AppMap.vue';
 
 export default {
     name: 'Home',
     components: {
-        MapFilter,
+        AppMapFilter,
+        AppMap,
     },
 };
 </script>

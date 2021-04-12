@@ -18,7 +18,7 @@ module.exports = {
         'max-len': ['error', { code: 160, tabWidth: 4 }],
         'no-plusplus': [2, { allowForLoopAfterthoughts: true }],
         'operator-linebreak': ["error", "before"],
-        "vue/no-multiple-template-root": "off"
+        "vue/no-multiple-template-root": "off"        
     },
     parserOptions: {
         parser: 'babel-eslint',
