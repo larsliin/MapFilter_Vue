@@ -16,7 +16,7 @@
 <script>
 import AppFieldTextInput from '@/components/AppFieldTextInput.vue';
 import AppFieldRadioGroup from '@/components/AppFieldRadioGroup.vue';
-import axios from 'axios';
+import { mapGetters } from 'vuex';
 
 export default {
     name: 'AppMapFilter',
@@ -27,16 +27,8 @@ export default {
     props: {
         msg: String,
     },
-    created() {
-        axios
-            .get('/data/data1.json')
-            .then((response) => {
-                console.log(response);
-            })
-            .catch((error) => {
-                this.errorMessage = error.message;
-                console.error('There was an error!', error);
-            });
+    computed: mapGetters(['propertiesList']),
+    methods: {
     },
 };
 </script>

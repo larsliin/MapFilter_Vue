@@ -15,12 +15,19 @@
 // @ is an alias to /src
 import AppMapFilter from '@/components/AppMapFilter.vue';
 import AppMap from '@/components/AppMap.vue';
+import { mapActions } from 'vuex';
 
 export default {
     name: 'Home',
     components: {
         AppMapFilter,
         AppMap,
+    },
+    methods: {
+        ...mapActions(['fetchProperties']),
+    },
+    created() {
+        this.fetchProperties('data1');
     },
 };
 </script>
