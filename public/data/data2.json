@@ -31,9 +31,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.64589,
-      "lon": 12.61236
+      "lng": 12.61236
     },
     "county": {
       "countyId": 1084,
@@ -76,9 +76,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.64589,
-      "lon": 12.61236
+      "lng": 12.61236
     },
     "county": {
       "countyId": 1084,
@@ -121,9 +121,9 @@
       "brokerId": "023",
       "brokerName": "DanBolig Helsingør<br>v/Larsen & Nielsen"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.665839,
-      "lon": 12.584006
+      "lng": 12.584006
     },
     "county": {
       "countyId": 1084,
@@ -166,9 +166,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.645456,
-      "lon": 12.602685
+      "lng": 12.602685
     },
     "county": {
       "countyId": 1084,
@@ -211,9 +211,9 @@
       "brokerId": "146",
       "brokerName": "Ejendomsmægler<br>Niels Hald City A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.668683,
-      "lon": 12.598664
+      "lng": 12.598664
     },
     "county": {
       "countyId": 1084,
@@ -256,9 +256,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.665963,
-      "lon": 12.585004
+      "lng": 12.585004
     },
     "county": {
       "countyId": 1084,
@@ -301,9 +301,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.654724,
-      "lon": 12.613763
+      "lng": 12.613763
     },
     "county": {
       "countyId": 1084,
@@ -346,9 +346,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.645719,
-      "lon": 12.635495
+      "lng": 12.635495
     },
     "county": {
       "countyId": 1084,
@@ -391,9 +391,9 @@
       "brokerId": "171",
       "brokerName": "DanBolig Vangede-Dyssegaard"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.658893,
-      "lon": 12.600119
+      "lng": 12.600119
     },
     "county": {
       "countyId": 1084,
@@ -436,9 +436,9 @@
       "brokerId": "228",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.661177,
-      "lon": 12.628181
+      "lng": 12.628181
     },
     "county": {
       "countyId": 1084,
@@ -481,9 +481,9 @@
       "brokerId": "228",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.660577,
-      "lon": 12.624754
+      "lng": 12.624754
     },
     "county": {
       "countyId": 1084,
@@ -526,9 +526,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.647904,
-      "lon": 12.613913
+      "lng": 12.613913
     },
     "county": {
       "countyId": 1084,

@@ -31,9 +31,9 @@
       "brokerId": "146",
       "brokerName": "Ejendomsmægler<br>Niels Hald City A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.656412,
-      "lon": 12.6324
+      "lng": 12.6324
     },
     "county": {
       "countyId": 1084,
@@ -76,9 +76,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.652459,
-      "lon": 12.607623
+      "lng": 12.607623
     },
     "county": {
       "countyId": 1084,
@@ -121,9 +121,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.655403,
-      "lon": 12.630955
+      "lng": 12.630955
     },
     "county": {
       "countyId": 1084,
@@ -166,9 +166,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.643155,
-      "lon": 12.616401
+      "lng": 12.616401
     },
     "county": {
       "countyId": 1084,
@@ -211,9 +211,9 @@
       "brokerId": "228",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.652055,
-      "lon": 12.621628
+      "lng": 12.621628
     },
     "county": {
       "countyId": 1084,
@@ -256,9 +256,9 @@
       "brokerId": "025",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.648797,
-      "lon": 12.616254
+      "lng": 12.616254
     },
     "county": {
       "countyId": 1084,
@@ -301,9 +301,9 @@
       "brokerId": "215",
       "brokerName": "DanBolig Projektsalg"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.658428,
-      "lon": 12.570524
+      "lng": 12.570524
     },
     "county": {
       "countyId": 1084,
@@ -346,9 +346,9 @@
       "brokerId": "146",
       "brokerName": "Ejendomsmægler<br>Niels Hald City A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.666958,
-      "lon": 12.582645
+      "lng": 12.582645
     },
     "county": {
       "countyId": 1084,
@@ -391,9 +391,9 @@
       "brokerId": "215",
       "brokerName": "DanBolig Projektsalg"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.658428,
-      "lon": 12.570524
+      "lng": 12.570524
     },
     "county": {
       "countyId": 1084,
@@ -436,9 +436,9 @@
       "brokerId": "215",
       "brokerName": "DanBolig Projektsalg"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.658679,
-      "lon": 12.570849
+      "lng": 12.570849
     },
     "county": {
       "countyId": 1084,
@@ -481,9 +481,9 @@
       "brokerId": "228",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.662601,
-      "lon": 12.613456
+      "lng": 12.613456
     },
     "county": {
       "countyId": 1084,
@@ -526,9 +526,9 @@
       "brokerId": "228",
       "brokerName": "Ejendomsmægler<br>Niels Hald Amager A/S"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.663758,
-      "lon": 12.629391
+      "lng": 12.629391
     },
     "county": {
       "countyId": 1084,

@@ -31,9 +31,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.660058,
-      "lon": 12.521015
+      "lng": 12.521015
     },
     "county": {
       "countyId": 1084,
@@ -76,9 +76,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.651595,
-      "lon": 12.523563
+      "lng": 12.523563
     },
     "county": {
       "countyId": 1084,
@@ -121,9 +121,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.666606,
-      "lon": 12.50113
+      "lng": 12.50113
     },
     "county": {
       "countyId": 1084,
@@ -166,9 +166,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.645102,
-      "lon": 12.500386
+      "lng": 12.500386
     },
     "county": {
       "countyId": 1084,
@@ -211,9 +211,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.6663,
-      "lon": 12.494533
+      "lng": 12.494533
     },
     "county": {
       "countyId": 1084,
@@ -256,9 +256,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.661738,
-      "lon": 12.522614
+      "lng": 12.522614
     },
     "county": {
       "countyId": 1084,
@@ -301,9 +301,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.661738,
-      "lon": 12.522614
+      "lng": 12.522614
     },
     "county": {
       "countyId": 1084,
@@ -346,9 +346,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.661738,
-      "lon": 12.522614
+      "lng": 12.522614
     },
     "county": {
       "countyId": 1084,
@@ -391,9 +391,9 @@
       "brokerId": "215",
       "brokerName": "DanBolig Projektsalg"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.66782,
-      "lon": 12.490421
+      "lng": 12.490421
     },
     "county": {
       "countyId": 1084,
@@ -436,9 +436,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.666274,
-      "lon": 12.500798
+      "lng": 12.500798
     },
     "county": {
       "countyId": 1084,
@@ -481,9 +481,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.646343,
-      "lon": 12.500052
+      "lng": 12.500052
     },
     "county": {
       "countyId": 1084,
@@ -526,9 +526,9 @@
       "brokerId": "069",
       "brokerName": "Holm & Hauberg BoligCenter Valby/København SV"
     },
-    "latLon": {
+    "latLng": {
       "lat": 55.649521,
-      "lon": 12.494563
+      "lng": 12.494563
     },
     "county": {
       "countyId": 1084,

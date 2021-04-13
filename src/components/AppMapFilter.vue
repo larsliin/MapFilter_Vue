@@ -28,8 +28,7 @@ export default {
         msg: String,
     },
     computed: mapGetters(['propertiesList']),
-    methods: {
-    },
+    methods: {},
 };
 </script>
 
